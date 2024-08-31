@@ -1,2 +1,1 @@
-# IMC-HOW-XAI-
-IMC-HOW? Workshop on XAI 
+Companion repository of the IMC-HOW? Workshop on XAI.
